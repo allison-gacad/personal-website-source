@@ -1,0 +1,51 @@
+baseURL = "https://www.example.com/"
+title = "allison gacad"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true 
+copyright = "© 2016-19 <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a>. Made by <a href='https://twitter.com/siegerts'>@siegerts</a>."
+description = "Basic personal site theme styled with minimal tachyons, syntax highlighting, and blog series configuration."
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":ok_woman:"
+  # change this!
+  twitter = "allisongacad"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+[[params.menu]]
+  name = "bookshelf"
+  url = "bookshelf/"
+
+[[params.menu]]
+  name = "speaking"
+  url = "speaking/"
+  
+[[params.menu]]
+  name = "writing"
+  url = "https://allisongacad.medium.com/"
+
+[[params.menu]]
+  name = "technology"
+  url = "technology/"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
