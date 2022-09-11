@@ -10,4 +10,4 @@ Currently I’m working part-time at a startup based out of Beijing and Palo Alt
 
 I was born and raised in scarborough - on the eastern edge of toronto - and graduated from the university of british columbia in 2021 where I studied plant biology, agroecology, and food systems. This is all thanks to the support of many generous communities: the musqueam, squamish and tsleil waututh peoples; the loran scholars foundation; UBC’s global resource systems; the cansbridge fellowship; shipping container farms of singapore, rice fields of the philippines, the green rooftops and gardens across turtle island, the city of vancouver’s generous bike lanes; crag developers in squamish; mountains, oceans, and forest; my family, friends, and partner.
 
-This was last updated September 2, 2022, thanks to Hugo.
+This was last updated September 10, 2022, thanks to Hugo.
