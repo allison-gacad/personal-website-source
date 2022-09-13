@@ -35,6 +35,10 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
 [[params.menu]]
   name = "writing"
   url = "https://allisongacad.medium.com/"
+  
+[[params.menu]]
+  name = "community organizing"
+  url = "community/"
 
 [privacy]
   [privacy.googleAnalytics]
