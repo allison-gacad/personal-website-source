@@ -3,7 +3,7 @@ title: "About"
 date: 2022-09-02T18:01:34-07:00
 draft: false
 ---
-![A black and white portrait of Allison, her chin resting on top of her closed fit. She is wearing an oversized navy blue button up and seems pensive, but is actually trying to figure out what her partner, the photographer, is doing.](/profile.jpg)
+![A black and white portrait of Allison, her chin resting on top of her closed fit. She is wearing an oversized navy blue button up and seems pensive, but is actually trying to figure out what her partner, the photographer, is doing.](/profile.jpg){{ $image := $image.Fit "600x400" }}
 Hey, I’m Allison. I’m a researcher, writer, journalist, and technologist. I care deeply about building and supporting climate solutions, especially for our most marginalized populations. I think a lot about the role of technology in our society in a changing climate and have spent some time building technology, being critical of what we’ve built, and dreaming about its future, primarily through the domain of our food system.
 
 Currently I’m working part-time at a startup based out of Beijing and Palo Alto to advance knowledge management for climate solutions. I’m excited and open to opportunities and conversations that advance new ways of building technology to address our climate crisis, especially if they focus on our food system.
