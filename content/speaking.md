@@ -1,7 +1,7 @@
 ---
 title: "speaking"
 date: 2022-09-02T18:33:27-07:00
-draft: true
+draft: false
 ---
 
 ## 2022
