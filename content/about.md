@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-09-02T18:01:34-07:00
-draft: true
+draft: false
 ---
 
 Hey, I’m Allison. I’m a researcher, writer, journalist, and technologist. I care deeply about building and supporting climate solutions, especially for our most marginalized populations. I think a lot about the role of technology in our society in a changing climate and have spent some time building technology, being critical of what we’ve built, and dreaming about its future - all through the domain of our food system.
