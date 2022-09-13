@@ -36,10 +36,6 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
   name = "writing"
   url = "https://allisongacad.medium.com/"
 
-[[params.menu]]
-  name = "technology"
-  url = "technology/"
-
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true
