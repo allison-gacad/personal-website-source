@@ -19,4 +19,6 @@ I was born and raised in scarborough - on the eastern edge of toronto - and grad
 - social + class mobility and diaspora
 - why san francisco feels dystopian
 
-This was last updated September 12, 2022, thanks to Hugo and GitHub Pages.
+You can reach me at allisongacad [at] gmail [dot] com
+
+This was last updated September 13, 2022, thanks to Hugo and GitHub Pages
