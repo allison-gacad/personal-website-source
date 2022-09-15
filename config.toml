@@ -1,4 +1,4 @@
-baseURL = "allisongacad.com"
+baseURL = "allisongacad.com/"
 title = "allison gacad"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
