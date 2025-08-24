@@ -4,16 +4,15 @@ date: 2022-09-02T18:33:15-07:00
 draft: false
 ---
 this is what i am reading:
-- rooted - sarah langford
-- mga ibong mandaragit - amado v hernandez
+- trying to keep up with weekly issues of the new yorker
+- abundance by ezra klein/derek thompson
 
-this is what i have read:
-- notes of a crocodile - qiu maojin
-- exhalation - ted chiang
-- mrs dalloway - virginia woolf 
-- on earth we're briefly gorgeous - ocean vuong
-- in another place, not here - dionne brand
-- the vegetarian - han kong
+this is a bit of what i have read in the past year:
+- birnam wood - eleanor catton
+- fireweather - john vaillant
+- the golden spruce - john vaillant
+- exhalation:stories - ted chiang
+- white teeth - zadie smith
 
-started september 2022
-updated may 2023
+
+updated august 2025 
