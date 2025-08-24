@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-09-02T18:01:34-07:00
-draft: false
+draft: true
 ---
 Hey, I’m Allison. I’m a journalist, writer, and a filmmaker (just hardly!). I care deeply about building and supporting climate solutions, especially for our most marginalized populations.
 
